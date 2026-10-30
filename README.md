@@ -1,1 +1,1 @@
-# CASE_AI_CHEMPIONAT_KOZERI
+https://github.com/Ilyukhentsia/AI_case <---- гит репозиторий с базой данных, необходимой к установке. Так же перед использованием у вас должны быть установлены модели Ollama и Qwen2.5
